@@ -14,9 +14,11 @@
                 <GradientStop Color="White" Offset="4"/>
             </LinearGradientBrush>
         </Grid.BorderBrush>
-        //Stop Watch Text//
+        
+        <!--Stop Watch Screen Showing Hours Minutes Seconds-->
         <TextBlock x:Name="txtBox" Margin="147,155,0,0" TextWrapping="Wrap" Text="0 : 0 : 0" VerticalAlignment="Top" Height="108" FontSize="100" HorizontalAlignment="Left" Width="370" FontFamily="DS-Digital" Foreground="#FF0E43F7"/>
-        //Buttons for Stop Watch Operation//
+        
+        <!--Radio Buttons Selector for Changing BackGround Colors-->
         <RadioButton x:Name="radioButtonRed" Content="Red" HorizontalAlignment="Left" Margin="20,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.203" Width="52" Checked="radioButton_Checked" Foreground="#FFA3A3A3" Background="Black" Height="28"/>
         <RadioButton x:Name="radioButtonWhite" Content="White" HorizontalAlignment="Left" Margin="20,90,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.203" Width="52" Checked="radioButton_Checked" Foreground="#FFC5C0C0" Background="Black" Height="28"/>
         <RadioButton x:Name="radioButtonBlack" Content="Black" HorizontalAlignment="Left" Margin="20,120,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.203" Width="52" Checked="radioButton_Checked" Foreground="#FFA3A3A3" Background="Black" Height="28"/>
@@ -37,7 +39,8 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        //Navigation Back to Digital Clcok//
+        
+        <!--Navigation to Digital Clock from Stop/watch-->
         <HyperlinkButton Click="stopWatchNavigation_Click" x:Name="stopWatchNavigation" Content="Goto Clock" HorizontalAlignment="Left" Margin="235,70,0,0" VerticalAlignment="Top" Background="#FF746666"/>
         <Button x:Name="pauseButton" Content="Pause" HorizontalAlignment="Left" Margin="260,268,0,0" VerticalAlignment="Top"  Foreground="#FF161D13" BorderBrush="#FF7F4C4C" BorderThickness="5" FontFamily="Showcard Gothic" Click="pauseButton_Click">
             <Button.Background>
