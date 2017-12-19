@@ -146,6 +146,7 @@ namespace Digital_Clock
             }
         }
 
+        //Background returns true if selected//
         private void radioBackground()
         {
             if (black == true)
