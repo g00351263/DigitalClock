@@ -24,22 +24,25 @@ namespace Digital_Clock
     /// </summary>
     public sealed partial class StopWatch : Page
     {
-
+        //Buitl in Timer methods/funtions object creation//
         DispatcherTimer timer = new DispatcherTimer();
+        
+        //assigning time to variables//
         int seconds = 0;
         int minutes = 0;
         int hours = 0;
    
-
+        //background color in case choosen will be returning true//
         bool black, white, red = false;
        
-
+       //intializing the stop watch on start of programm//
         public StopWatch() { 
             this.InitializeComponent();
         }
 
         #region Timer Methods
 
+        // getting the methods form timer class and assigning them to time//
         private void StartTimer()
         {
             this.timer.Interval = new TimeSpan(0, 0, 1);
@@ -47,12 +50,13 @@ namespace Digital_Clock
             this.timer.Start();
         }
 
+        // stop the timer method//
         private void StopTimer()
         {
             this.timer.Tick -= timer_Tick;
             this.timer.Stop();
         }
-
+    //reseting the timer//
         private void ResetTimer()
         {
             this.minutes = this.seconds = this.hours = 0;
@@ -62,8 +66,7 @@ namespace Digital_Clock
         #endregion
         private void timer_Tick(object sender, object e)
         {
-            //Just change the text  here
-
+            //assigning current time to variables//
             ++this.seconds;
             if (this.seconds == 60)
             {
@@ -75,10 +78,11 @@ namespace Digital_Clock
                 this.hours++;
                 this.minutes = 0;
             }
-
+            // output standard from timer class//
             this.txtBox.Text = string.Format("{0} : {1} : {2}", hours, minutes, seconds);
         }
-
+        
+        // if timer not start start it, if started stop, and reseting//
         private void startButton_Click(object sender, RoutedEventArgs e)
         {
             if (!this.timer.IsEnabled)
@@ -98,12 +102,14 @@ namespace Digital_Clock
                 this.StopTimer();
             }
         }
-
+        
+        //to the mainPage of Digital clock//
         private void stopWatchNavigation_Click(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(MainPage));
         }
 
+        //background selector with radio event sender//
         private void radioButton_Checked(object sender, RoutedEventArgs e)
         {
             RadioButton current = (RadioButton)sender;
