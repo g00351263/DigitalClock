@@ -1,0 +1,2 @@
+MainPackage=C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Release\Digital Clock_1.1.13.0_x86.appx
+SymbolPackage=C:\Users\g0035\Desktop\NewWithStopWatch\Digital Clock_1.1.13.0_Test\Digital Clock_1.1.13.0_x86.appxsym
