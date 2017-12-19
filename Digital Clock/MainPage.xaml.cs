@@ -145,7 +145,7 @@ namespace Digital_Clock
                 backGrid.Background = new SolidColorBrush(Windows.UI.Colors.White);
             }
         }
-
+//Radiobuttons background colours true if clicked//
         private void radioBackground()
         {
             if(black == true)
