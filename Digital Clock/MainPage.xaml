@@ -6,7 +6,11 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
-
+     
+<!--Authour Raja Naseer Ahmed Khan,
+    B.Sc Software Development, GMIT-->
+     
+     <!--Standard, Size, Color and theme-->
     <Grid x:Name="backGrid"  Background="Black" BorderThickness="20" HorizontalAlignment="Center" VerticalAlignment="Center">
         <Grid.BorderBrush>
             <LinearGradientBrush EndPoint="0,0" StartPoint="0,0">
@@ -14,19 +18,27 @@
                 <GradientStop Color="White" Offset="4"/>
             </LinearGradientBrush>
         </Grid.BorderBrush>
+        
+        <!--Hours,Seconds and Months Settings-->
         <TextBlock x:Name="hours" Margin="154,106,0,0" TextWrapping="Wrap" Text="22" VerticalAlignment="Top" Height="108" FontSize="100" HorizontalAlignment="Left" Width="117" FontFamily="DS-Digital" Foreground="#FF0E43F7"/>
         <TextBlock x:Name="seconds" HorizontalAlignment="Left" Margin="431,150,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" FontSize="40" FontFamily="DS-Digital" Foreground="#FF0E43F7"/>
         <TextBlock x:Name="Month" Margin="21,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="90" Width="123" FontSize="75" HorizontalAlignment="Left" FontFamily="DS-Digital" Text="DAY" Foreground="#FF0E43F7">
         </TextBlock>
+        
+        <!--intial Standards and Sizing of Texts-->
         <TextBlock x:Name="txtDay" HorizontalAlignment="Left" Margin="424,245,10,0" TextWrapping="Wrap" Text="WEDNESDAY" VerticalAlignment="Top" Width="174" FontSize="38" FontFamily="DS-Digital" Foreground="#FF0E43F7"/>
         <TextBlock x:Name="minutes" Margin="296,106,0,0" TextWrapping="Wrap" Text="22" VerticalAlignment="Top" Height="108" FontSize="100" HorizontalAlignment="Left" Width="117" FontFamily="DS-Digital" Foreground="#FF0E43F7"/>
         <TextBlock x:Name="Day" Margin="165,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="90" Width="92" FontSize="75" HorizontalAlignment="Left" FontFamily="DS-Digital" Text="10" RenderTransformOrigin="0.062,0.439" Foreground="#FF0E43F7"/>
         <TextBlock x:Name="Year" Margin="265,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="90" Width="136" FontSize="75" HorizontalAlignment="Left" FontFamily="DS-Digital" Text="2016" Foreground="#FF0E43F7"/>
         <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="263,102,0,0" TextWrapping="Wrap" Text=":" VerticalAlignment="Top" Height="106" FontSize="100" FontFamily="DS-Digital" Foreground="#FF0508F7"/>
+        
+        <!--Background Colours Senders-->
         <RadioButton x:Name="radioButtonRed" Content="Red" HorizontalAlignment="Left" Margin="20,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.203" Width="52" Checked="radioButton_Checked" Foreground="#FFA3A3A3" Background="Black" Height="28"/>
         <RadioButton x:Name="radioButtonWhite" Content="White" HorizontalAlignment="Left" Margin="20,90,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.203" Width="52" Checked="radioButton_Checked" Foreground="#FFC5C0C0" Background="Black" Height="28"/>
         <RadioButton x:Name="radioButtonBlack" Content="Black" HorizontalAlignment="Left" Margin="20,120,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.203" Width="52" Checked="radioButton_Checked" Foreground="#FFA3A3A3" Background="Black" Height="28"/>
         <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="20,40,0,0" TextWrapping="Wrap" Text="Background" VerticalAlignment="Top" Foreground="#FF6AE831"/>
+        
+        <!--Link to StopWatch-->
         <HyperlinkButton  Click="stopWatchNavigation_Click" x:Name="stopWatchNavigation" Content="Goto Stop Watch" HorizontalAlignment="Left" Margin="240,26,0,0" VerticalAlignment="Top" Background="#FF746666"/>
     </Grid>
 </Page>
