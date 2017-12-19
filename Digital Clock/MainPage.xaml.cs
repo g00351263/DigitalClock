@@ -6,15 +6,19 @@ using Windows.Storage;
 using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
-
+//Authour : Raja Naseer Ahmed Khan//
+//GMIT Software Development//
 namespace Digital_Clock
 {
-    
-
     public sealed partial class MainPage : Page
     {
+        //Global Variable for Colour returns true if clicked//
         bool black,white,red = false;
+        
+        //Timer Built in functions and object Creation//
         DispatcherTimer timer = new DispatcherTimer(); //library pre-made functions for time and date
+        
+        // main method which is running at start//
         public MainPage()
         {      
             InitializeComponent();
