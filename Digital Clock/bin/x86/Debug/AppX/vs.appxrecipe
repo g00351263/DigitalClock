@@ -9,32 +9,32 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>333ad589-8d68-41cf-a8a0-43c4d8c61d0c</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Raja</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=10A2F2A4-D804-4BA7-A4C6-AF0070ECE30A</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>4B22E72613618C02E1A514C1DFD1010CC3E0103CF996ACF08887F1FAC269AB78</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>333ad589-8d68-41cf-a8a0-43c4d8c61d0c_1.0.0.0_x86__8sszm5p4dvzh0</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>333ad589-8d68-41cf-a8a0-43c4d8c61d0c_8sszm5p4dvzh0!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>333ad589-8d68-41cf-a8a0-43c4d8c61d0c</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Raja</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>5BDACB7EDF5821C2909BBCC43B540AB281402A81AE5F3FD63A2F7629159D7AEB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>62403Rajakhan.DigitalClock3Backgrounds_1.1.13.0_x86__95q6mz4x8mn8m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>62403Rajakhan.DigitalClock3Backgrounds_95q6mz4x8mn8m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>62403Rajakhan.DigitalClock3Backgrounds</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=10A2F2A4-D804-4BA7-A4C6-AF0070ECE30A</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.13.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-21T17:22:13.979</Modified>
+      <Modified>2017-12-19T00:12:42.770</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Digital Clock.exe">
       <PackagePath>entrypoint\Digital Clock.exe</PackagePath>
-      <Modified>2017-11-21T17:22:13.700</Modified>
+      <Modified>2017-12-19T00:12:42.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -448,47 +448,43 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T06:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-11-19T10:46:46.500</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2015-09-21T00:30:08.000</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-21T00:30:08.000</Modified>
+      <Modified>2017-12-14T11:47:37.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-21T00:30:08.000</Modified>
+      <Modified>2017-12-14T11:47:37.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-21T00:30:08.000</Modified>
+      <Modified>2017-12-14T11:47:37.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-21T00:30:08.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-21T00:30:08.000</Modified>
+      <Modified>2017-12-14T11:47:37.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-21T00:30:08.000</Modified>
+      <Modified>2017-12-14T11:47:37.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-14T11:47:37.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2017-11-19T10:46:46.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Digital Clock.xr.xml">
       <PackagePath>Digital Clock.xr.xml</PackagePath>
-      <Modified>2017-11-19T11:02:34.222</Modified>
+      <Modified>2017-12-16T10:22:00.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -497,11 +493,11 @@
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-21T16:35:16.776</Modified>
+      <Modified>2017-12-16T10:22:01.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Core\Digital Clock.exe">
       <PackagePath>Digital Clock.exe</PackagePath>
-      <Modified>2017-11-21T17:22:13.975</Modified>
+      <Modified>2017-12-19T00:12:42.766</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>333ad589-8d68-41cf-a8a0-43c4d8c61d0c</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Raja</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=10A2F2A4-D804-4BA7-A4C6-AF0070ECE30A</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
@@ -334,12 +334,6 @@
     <AppxPackagedFile Include="C:\Users\g0035\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -356,13 +350,16 @@
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Assets\Wide310x150Logo.scale-200.png">
-      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Digital Clock.xr.xml">
       <PackagePath>Digital Clock.xr.xml</PackagePath>

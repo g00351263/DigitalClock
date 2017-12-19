@@ -1,15 +1,6 @@
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\App.g.i.cs
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\App.g.cs
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MainPage.g.i.cs
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MainPage.g.cs
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\XamlTypeInfo.g.cs
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\App.xaml
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MainPage.xaml
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\App.xbf
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MainPage.xbf
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\XamlSaveStateFile.xml
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\App.xbf
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\MainPage.xbf
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\StopWatch.xbf
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Digital Clock.xr.xml
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Digital Clock.exe
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Digital Clock.pdb
@@ -121,6 +112,21 @@ C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\Syst
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\System.Xml.XDocument.dll
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\System.Xml.XmlDocument.dll
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\Digital Clock.csprojResolveAssemblyReference.cache
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\App.g.i.cs
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\App.g.cs
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MainPage.g.cs
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\StopWatch.g.i.cs
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\StopWatch.g.cs
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\App.xaml
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MainPage.xaml
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\StopWatch.xaml
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\App.xbf
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MainPage.xbf
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\StopWatch.xbf
+C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\XamlSaveStateFile.xml
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\Digital Clock.exe
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\Digital Clock.pdb
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\ResourceHandlingTask.state
@@ -189,4 +195,3 @@ C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\qual
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\ProjectArchitectures.txt
-C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\obj\x86\Debug\Digital Clock.csprojResolveAssemblyReference.cache

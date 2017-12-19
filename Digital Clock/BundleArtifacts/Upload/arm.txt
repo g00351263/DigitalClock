@@ -1,0 +1,2 @@
+MainPackage=C:\Users\g0035\Desktop\procedural\Digital Clock\Digital Clock\bin\ARM\Release\Upload\Digital Clock_1.1.13.0_ARM.appx
+SymbolPackage=C:\Users\g0035\Desktop\NewWithStopWatch\Digital Clock_1.1.13.0\Digital Clock_1.1.13.0_ARM.appxsym
